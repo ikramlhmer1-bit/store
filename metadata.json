@@ -1,0 +1,6 @@
+{
+  "name": "Delvra - Digital Software & License Store",
+  "description": "Software made simple, delivered instantly. Premium digital software licenses, lifetime downloads, and digital product vendor management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
